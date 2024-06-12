@@ -58,8 +58,21 @@ const services = [
 ];
 
 const dataportfolio = [
-   
-   
+   {
+    img:'https://raw.githubusercontent.com/prasannashrestha011/YoutubeClone/main/uploads/Screenshot%20(101).png',
+    description:'chat-application'
+   },
+   {
+    img:'https://raw.githubusercontent.com/prasannashrestha011/YoutubeClone/main/uploads/Screenshot%20(102).png',
+    description:'note'
+   },
+   {
+    img:'https://raw.githubusercontent.com/prasannashrestha011/YoutubeClone/main/uploads/Screenshot%20(106).png'
+   },
+   {
+    img:'https://raw.githubusercontent.com/prasannashrestha011/YoutubeClone/main/uploads/Screenshot%20(105).png',
+    description:'A terminal that contain several cmd prompts'
+   }
 
    
  
